@@ -1,0 +1,40 @@
+name: flutter_application_1
+description: A new Flutter project.
+
+publish_to: 'none' 
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.17.6 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.0
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - assets/homeimage.png
+    - assets/fondo.jpg
+    - assets/reserva.png
+    - assets/registro.png
+    - assets/cliente.png
+    - assets/picada.png
+    - assets/solomo.png
+    - assets/cazuela.png
+    - assets/pescado.png
+    - assets/menu.png
+    - assets/laureles.png
+    - assets/robledo.png
+    - assets/poblado.png
